@@ -34,7 +34,6 @@
     top: 0;
     left: 0;
     flex-direction: column;
-    justify-content: center;
     transform: translateX(-100%);
     transition: 0.3s all;
     z-index: 2;
@@ -51,6 +50,11 @@
   .close {
     display: block;
     z-index: 3;
+  }
+
+  .menu__element:first-child {
+
+    margin-top: 127px;
   }
 
   .menu__element:not(:first-child) {
