@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap");
+
+@font-face {
+  font-family: "DM Sans_Light"; /* Имя шрифта */
+  src: url(../fonts/rP2Hp2ywxg089UriCZOIHQ.woff2); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+  font-family: "DM Sans_Medium"; /* Имя шрифта */
+  src: url(../fonts/rP2Cp2ywxg089UriAWCrCBimCw.woff2); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+  font-family: "DM Sans_Bold"; /* Имя шрифта */
+  src: url(../fonts/rP2Cp2ywxg089UriASitCBimCw.woff2); /* Путь к файлу со шрифтом */
+}
